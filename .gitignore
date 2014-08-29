@@ -26,3 +26,10 @@ Makefile*
 # QtCreator
 
 *.autosave
+
+
+.*
+!.gitignore
+
+build
+

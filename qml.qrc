@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>humans.png</file>
+        <file>JLSSpaceGothicR.ttf</file>
+    </qresource>
+</RCC>
