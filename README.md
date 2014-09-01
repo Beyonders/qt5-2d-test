@@ -1,14 +1,16 @@
 QT5 2D graphics demo
 ========================
 
-Tested with QT 5.3
+Tested with:
+ - QT 5.3
+ - QT 5.2
 
 To run:
 
 1. GUI
  - open *.pro in qtcreator
  - select run
- 
+
 2. console
  - mkdir build
  - cd build
